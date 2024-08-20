@@ -1,5 +1,9 @@
 # 📖 Email sender
 
+```go
+go run hello/main.go
+go run sender/main.go
+```
 
 ## Articles
 
